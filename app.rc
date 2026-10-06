@@ -1,0 +1,7 @@
+#include "resource.h"
+
+// 把文件夹图标作为二进制资源嵌入 exe
+IDR_ICON_FOLDER  RCDATA  "icon.ico"
+
+// 把壁纸截图作为二进制资源嵌入 exe
+IDR_WALLPAPER    RCDATA  "wallpaper.png"
